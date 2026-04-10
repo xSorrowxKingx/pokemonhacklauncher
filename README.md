@@ -1,7 +1,8 @@
 # Pokémon Hack Launcher
 
-![GitHub release](https://img.shields.io/github/v/release/Barath0n/PokemonHackLauncher)
-![License](https://img.shields.io/github/license/Barath0n/PokemonHackLauncher)
+![GitHub release](https://img.shields.io/github/v/release/Barath0n/Pokemon-Hack-Launcher)
+![Downloads](https://img.shields.io/github/downloads/Barath0n/Pokemon-Hack-Launcher/total)
+![License](https://img.shields.io/github/license/Barath0n/Pokemon-Hack-Launcher)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
 
 A lightweight fan-made launcher for managing and launching Pokémon ROM hacks and fangames that are distributed as standalone `.exe` files.
@@ -10,7 +11,7 @@ Many Pokémon fan games and ROM hacks are released as individual Windows executa
 This launcher provides a clean and convenient way to organize them in one place and launch them from a single interface.
 
 ⬇ **Download the latest version:**  
-https://github.com/Barath0n/PokemonHackLauncher/releases/latest
+[https://github.com/Barath0n/PokemonHackLauncher/releases/latest](https://github.com/Barath0n/Pokemon-Hack-Launcher/releases)
 
 ---
 
