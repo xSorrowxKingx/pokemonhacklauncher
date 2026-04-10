@@ -1,6 +1,6 @@
 # Pokémon Hack Launcher
 
-![GitHub release](https://img.shields.io/github/v/release/Barath0n/Pokemon-Hack-Launcher)
+[![GitHub release](https://img.shields.io/github/v/release/Barath0n/Pokemon-Hack-Launcher)](https://github.com/Barath0n/Pokemon-Hack-Launcher/releases)
 ![Downloads](https://img.shields.io/github/downloads/Barath0n/Pokemon-Hack-Launcher/total)
 ![License](https://img.shields.io/github/license/Barath0n/Pokemon-Hack-Launcher)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
