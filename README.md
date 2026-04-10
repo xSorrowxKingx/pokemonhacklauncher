@@ -122,11 +122,17 @@ The launcher updates instantly without restarting.
 # Project Structure
 
 core/
+
 ui/
+
 launcher.py
+
 games.json
+
 themes.json
+
 settings.json
+
 
 
 The project separates **core logic** and **UI components** to keep the codebase easier to maintain and expand.
